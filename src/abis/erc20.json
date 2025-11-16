@@ -1,0 +1,10 @@
+[
+  {
+    "constant": true,
+    "inputs": [{"name":"_owner","type":"address"}],
+    "name": "balanceOf",
+    "outputs": [{"name":"balance","type":"uint256"}],
+    "type": "function"
+  },
+  {"name":"approve","type":"function","inputs":[{"name":"_spender","type":"address"},{"name":"_value","type":"uint256"}],"outputs":[]}
+]
