@@ -1,8 +1,9 @@
 import { resolve } from 'path';
 import dotenv from 'dotenv';
+
 dotenv.config();
 
-import '@nomiclabs/hardhat-ethers';
+import '@nomicfoundation/hardhat-ethers';
 
 export default {
   solidity: {
